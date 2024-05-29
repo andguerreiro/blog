@@ -8,6 +8,4 @@ Escrito por Andrews Guerreiro, livreiro do **[sebomelivro.com](https://sebomeliv
 
 Esse site foi feito com **[Jekyll](https://jekyllrb.com/)**
 
-Logo criado por Maxin Basinski e baixado de **[Flaticon](https://www.flaticon.com/free-icons/typewriter)**
-
 Hospedagem e código aberto no **[GitHub](https://github.com/andguerreiro/jekyll)**
