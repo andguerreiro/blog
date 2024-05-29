@@ -14,4 +14,4 @@ Feito com **[Jekyll](https://jekyllrb.com/)**
 
 Logo criado por Maxim Basinski e baixado de **[Flaticon](https://www.flaticon.com/free-icons/typewriter)**
 
-Hospedagem e código aberto no **[GitHub](https://github.com/andguerreiro/jekyll)**
+Hospedagem e código aberto no **[GitHub](https://github.com/andguerreiro/blog)**
