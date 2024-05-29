@@ -4,13 +4,13 @@ title: Sobre
 permalink: /about/
 ---
 
-Apenas a simples e pura experiência de uma leitura sem distrações, como em um livro.
+Leitura sem distrações, como em um livro.
 
 Descentralizado, livre de anúncios, fotos, vídeos, comentários, curtidas, algoritmos, estatísticas e cookies. 
 
 Escrito por Andrews Guerreiro, livreiro do **[sebomelivro.com](https://sebomelivro.com)**.
 
-Esse site foi feito com **[Jekyll](https://jekyllrb.com/)**
+Feito com **[Jekyll](https://jekyllrb.com/)**
 
 Logo criado por Maxim Basinski e baixado de **[Flaticon](https://www.flaticon.com/free-icons/typewriter)**
 
