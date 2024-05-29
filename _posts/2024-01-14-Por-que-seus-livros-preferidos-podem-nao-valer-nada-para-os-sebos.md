@@ -1,0 +1,20 @@
+---
+layout: post
+title: Por que seus livros preferidos podem não valer nada para os sebos?
+---
+
+Várias pessoas, quando precisam ganhar algum dinheiro, acham que vender seus livros pode ser uma boa oportunidade. Ledo engano. Quando chegam a algum sebo e percebem que seus 20 livros maravilhosos e bem conservados valem no máximo 10 reais, ficam revoltadas. Isso, quando o livreiro do sebo está de bom humor. Na maioria das vezes, eles não aceitam esses livros nem se forem doados. Vou explicar o motivo.
+
+Existem basicamente quatro categorias de livros usados quando se trata de valor para revenda e índice de rotatividade de estoque. São eles:
+
+**Livros que não valem nada:** Sabe aquele livro que vendeu super bem, que todo mundo leu e que tinha uma quantidade enorme nas livrarias alguns anos atrás? Esse é um livro que não vale nada. Os livros usados seguem a lei da oferta e demanda. Se existe uma quantidade imensa de livros à venda e todo mundo já tem ou já leu, esse livro usado não tem nenhum valor comercial para os sebos. Pode até ser um livro incrível, bem avaliado pela crítica e um sucesso absoluto para os leitores. Simplesmente não vende. E como os sebos sempre têm problema de espaço para armazenar os livros, provavelmente já existem várias edições dele disponíveis, portanto, não vale nem a pena receber mais um de doações. Só vai ficar acumulando pó na estante.
+
+**Livros que valem pouco:** São aqueles livros que nunca fizeram muito sucesso comercial e, por isso, a editora não imprimiu muitos exemplares. São livros medianos tanto para a crítica quanto para os leitores. Pouca gente quer ler. Por um preço bem baixo, um exemplar usado pode demorar anos para ser vendido.
+
+**Livros que valem muito:** Esses são os livros mais disputados no mercado de livros usados. São livros excelentes, que todo mundo quer ler, mas que, por algum motivo, a editora publicou pouquíssimos exemplares. Quando aparece um exemplar para venda, desaparece em poucas horas. Como são livros raríssimos do ponto de vista de disponibilidade para venda nos sebos, aparece um desses por ano. Se todos os livros fossem assim, os donos de sebo seriam mais ricos que o Jeff Bezos. Mas é praticamente um em um milhão o livro que se encaixa plenamente nessa categoria.
+
+**Livros desconhecidos:** Aqui a oferta e demanda do livro dependem muito. São livros pouco lidos mas de autores famosos, que só vendem por causa do nome do autor. Podem ser livros que nunca ninguém quis ler, mas por algum efeito viral, tipo o TikTok, viram best sellers e desaparecem dos sebos. Também podem ser livros com capa dura, papel de qualidade, ótima edição e tema relevante, mas que ninguém nunca ouviu falar, então nem procura. São livros que podem ter um preço elevado no mercado de usados, mas que a venda deles depende totalmente de serem descobertos por um leitor curioso, interessado no autor ou tema incomum e desconhecido.
+
+Dá para ter uma ideia de quanto vale um livro no mercado de livros usados simplesmente fazendo uma consulta do preço dele na Estante Virtual. E lembrando que você vai conseguir vender seu exemplar para um sebo por no máximo uns 25% do preço que encontrar lá, se tiver sorte. Os outros 65% são para pagar as despesas do sebo e uns 10% é o lucro. Só quem tem um sebo sabe o quanto esse negócio não é lucrativo. No máximo dá pra pagar a contas e tomar um café expresso. Acredite: vender livros usados raramente vale a pena. Você vai passar menos raiva se tentar doar, se alguém se interessar, ou reciclar, se ninguém quiser. Também dá para tentar vender por conta própria pela internet. Mas, nesse caso, você também vai se arrepender quando passar anos e ninguém comprar.
+
+Espero que, após ler este artigo, as pessoas entendam melhor o valor de seus livros no mercado de livros usados e não fiquem furiosas ao receber propostas baixíssimas ou recusas dos donos de sebo nos livros que gostariam de vender.

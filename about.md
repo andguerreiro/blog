@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Escrito por Andrews Guerreiro, livreiro do [sebomelivro.com](https://sebomelivro.com). Descentralizado, sem anúncios, sem fotos, sem vídeos, sem comentários, sem curtidas, sem algoritmos, sem estatisticas e sem cookies. Apenas a simples e pura experiência de uma leitura sem distrações, como em um livro.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Esse site foi feito com [Jekyll](https://jekyllrb.com/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Logo criado por Maxin Basinski e baixado de [Flaticon](https://www.flaticon.com/free-icons/typewriter)
 
-
-[jekyll-organization]: https://github.com/jekyll
+Hospedagem e código aberto no [GitHub](https://github.com/andguerreiro/jekyll)

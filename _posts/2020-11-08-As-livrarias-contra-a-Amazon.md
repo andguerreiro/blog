@@ -1,0 +1,16 @@
+---
+layout: post
+title: As livrarias contra a Amazon
+---
+
+As livrarias dos EUA declararam de forma irrefutável uma guerra contra a Amazon. De forma criativa, livrarias de Washington, Nova Iorque e Los Angeles usaram frases em suas fachadas como: “Curadoria de livros por pessoas de verdade, não por um algoritmo assustador”. Ou: “Compre livros de quem quer vender livros, não colonizar a lua”, em referência à vontade de longa data, revelada pelo dono da Amazon, Jeff Bezos, de habitar outros planetas. Essa também: “Amazon, deixe a distopia para Orwell”. George Orwell, autor de 1984, o maior clássico da literatura distópica já escrito, sobre o poder autoritário e manipulador que uma única entidade (no caso o Grande Irmão) teria sobre uma sociedade.
+
+O presidente da Associação Americana de Livrarias (ABA, American Booksellers Association), um dos organizadores da campanha contra a Amazon nos EUA, disse que o modelo de “conveniência” da Amazon — com livros sempre mais baratos e frete grátis — está fechando livrarias, diminuindo os empregos do setor, acabando com a oportunidade dos leitores de descobrir um livro e se conectar com outros leitores.
+
+Em Paris, a prefeita da cidade, Anne Hidalgo, pediu claramente à população que boicote a Amazon: “Digo claramente aos parisienses. Não comprem na Amazon. É a morte das nossas livrarias e do nosso comércio local”. No caso a crítica é ainda mais ampla, já que a Amazon não vende somente livros, vende de tudo. E isso prejudica todo o comércio local, não só as livrarias.
+
+No Brasil não tivemos campanhas tão direcionadas contra a Amazon. Talvez por falta de coragem ou porque ainda não entendemos o poder destrutivo da sua política de preços: vender sempre mais barato, mesmo que sem lucro. A ANL (Associação Nacional de Livrarias) começou em outubro a campanha “Estamos prontos para novas histórias”, em prol das livrarias físicas. A editora Record lançou a campanha “Eu apoio a livraria do bairro” onde, a partir de setembro, as livrarias físicas terão exclusividade por 30 dias na venda de cerca de 90% dos lançamentos (exceto os lançamentos mundiais) do grupo editorial Record e seus doze selos. Nenhuma das duas campanhas cita a Amazon, mas reforçam o interesse em manter as livrarias que sobraram abertas, principalmente durante uma pandemia.
+
+É claro que essas campanhas são mais bonitas no papel do que na prática. Afinal, pelo menos aqui no Brasil, a maioria esmagadora das cidades (cerca de 82% em 2018) não tem nenhuma livraria física. Aí pedir para as pessoas, que não têm acesso a nenhuma livraria, deixar de comprar livros na Amazon é sacanagem. As alternativas (outros sites que vendem livros, sejam eles de livrarias ou não) sempre serão mais caras com o frete, pelo menos para livros novos. Mas onde ainda existem livrarias (de livros novos ou usados), ou seja, em 18% das cidades brasileiras, compre nelas se puder.
+
+Quem gosta de livros pode se arrepender no futuro por não ter apoiado esses lugares onde podemos folhear um livro, cheirar, garimpar, ler trechos, conversar com os livreiros, pedir sugestões, participar de eventos com autores ou tomar um café. Não olhe só para o preço, nesse quesito as livrarias físicas não podem competir com a Amazon sem quebrar.

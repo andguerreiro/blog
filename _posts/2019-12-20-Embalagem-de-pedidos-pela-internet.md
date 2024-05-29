@@ -1,0 +1,14 @@
+---
+layout: post
+title: Embalagem de pedidos pela internet
+---
+
+Acho que é impossível, nos dias de hoje, você viver neste planeta e não ter ouvido falar nada sobre o mal que estamos causando ao meio ambiente. É o assunto do momento. Queimadas na Amazônia, na Austrália, aquecimento global, derretimento de geleiras, alagamento em Veneza, conferências do clima, etc. Quem ainda não ouviu falar da Greta Thunberg? Se não a conhece, é uma ativista ambiental sueca que, com 16 anos, se tornou a pessoa mais influente do mundo em 2019, segundo a revista Time, um dia após nosso presidente ter chamado ela de “pirralha” por criticar as políticas ambientais brasileiras. Ou seja, não tem como fugir desse tema. Nossa consciência ambiental está sendo estimulada diariamente.
+
+Se você acredita ou não nos cientistas, que já cansaram de provar o quanto prejudicial será para a próxima geração o aquecimento global, é outra história. Não vou discutir crença e fatos. Quero focar aqui no que eu estou fazendo para ajudar, nem que seja só um pouquinho, o meio ambiente.
+
+Como devem saber eu tenho um sebo virtual. Envio livros todos os dias para o Brasil todo. Certo dia eu estava entregando pessoalmente um pedido no metrô Fradique Coutinho aqui em São Paulo e levei uns 5 marcadores de página personalizados do sebo para a pessoa que ia receber os livros. Quando ela viu disse que não queria e justificou que seria mais papel que não precisa, ou algo assim. Aquilo me deixou bem pensativo. Era hora de mudar minha atitude. Pouco tempo depois comecei a utilizar papel kraft reciclado para embrulhar os pedidos; fita adesiva com cola à base de água por ser menos prejudicial, mesmo colando menos; papel de recado (que escrevo para todos os clientes) também reciclado. E caneta Bic azul (a clássica, sem frescura), que dura uma eternidade e evita consumismo desnecessário. Os marcadores de página e cartões de visita foram acabando e não encomendei mais. Isso é consciência ambiental. Pode parecer bobeira mas cada pequena ação conta. A gente não precisa de mais marcadores de página, todo mundo que tem livros ou lê com frequência tem vários. E cartão de visita ficou tão defasado com a invasão dos smartphones (não precisamos mais procurar nada nos cartões, está tudo na internet ao alcance da nossa mão) que não justifica mais mandar fazer.
+
+Não vou mudar o mundo, mas pelo menos diminuí um pouquinho minha pegada ambiental. Imagina se todos agissem assim… Enfim, não quero que minha sobrinha tenha mais dificuldade para respirar ar puro daqui a alguns anos porque acabaram as árvores de tanto desmatamento para produzir papel branco bonitinho.
+
+E você, o que está fazendo para diminuir seu impacto negativo ao meio ambiente? Não precisa me responder. Apenas reflita e pense em como você descarta seu lixo, o que você come, o que faz com o que não quer mais e tudo o que compra por desejo e não necessidade. Exceto livros usados, isso você pode comprar sempre!

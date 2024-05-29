@@ -1,0 +1,14 @@
+---
+layout: post
+title: 84% dos brasileiros não compraram nenhum livros nos últimos 12 meses
+---
+
+A pesquisa Panorama do Consumo de Livros, recém-publicada pela Nielsen BookData a pedido da Câmara Brasileira do Livro, realmente me surpreendeu. Apenas 16% dos brasileiros adquiriram pelo menos um livro nos últimos 12 meses. A pesquisa entrevistou 16 mil pessoas maiores de 18 anos em todas as regiões do Brasil.
+
+O aspecto mais impressionante é que 85% dos não compradores de livros consideram a leitura uma atividade muito importante (60%) ou importante (25%). Então, por que não compram? A maioria (24%) alega não ter tempo para a leitura. E o que fazem no tempo livre? Utilizam redes sociais (44%). Quanto ao que compram, destacam-se roupas (52%) e celulares (28%). O que desmotiva essas pessoas a continuarem não comprando livros? O custo elevado (35%) e a falta de lojas/livrarias nas proximidades (28%). Infelizmente, a percepção de que os livros são caros já foi abordada em vários dos meus artigos, e é uma barreira difícil de superar. A escassez de lojas/livrarias próximas é um problema crônico, especialmente em um país do tamanho do Brasil. Quem se arriscaria a abrir uma livraria se 84% da população não compra livros?
+
+Quanto aos 16% que adquiriram livros nos últimos 12 meses, 55% preferem a compra online devido aos melhores preços e promoções (43,5%). Aqueles que compram presencialmente apreciam ver/abrir o livro antes da aquisição (52,4%). Surpreendentemente, 54% dos compradores não aguardam datas especiais, como a Black Friday, para suas compras, enquanto 21% esperam por ela. A preferência recai majoritariamente sobre livros impressos (71%), seguidos por digitais (22%), e o restante adquire ambos. A compra de livros como presente é rara, com 74,5% adquirindo apenas para si mesmos. Dos compradores online, 66% optam pela Amazon, deixando o Mercado Livre em segundo lugar, com apenas 7% dos compradores.
+
+A compra online é motivada principalmente pelo preço (60%) e frete grátis (45%). Quanto ao conteúdo, 57% compram livros de não-ficção, enquanto 43% preferem ficção. A compra presencial favorece livrarias (47%) e sebos (11%). A Leitura, com mais de 100 lojas pelo Brasil, foi a livraria que mais vendeu para esse público, com 24%. O tema/assunto do livro é o fator mais influente (49%) na escolha de compra. Para esse público (18+ anos), os influenciadores no YouTube têm mais impacto do que os do TikTok. No universo digital, 50% dos leitores optam pelo celular, 19% por e-reader e 17% pelo computador.
+
+Esses são os pontos que considerei mais relevantes. Recomendo conferir a pesquisa na íntegra para mais detalhes.

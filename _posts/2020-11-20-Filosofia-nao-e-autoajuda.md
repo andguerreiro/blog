@@ -1,0 +1,14 @@
+---
+layout: post
+title: Filosofia não é autoajuda
+---
+
+Em tempos de pandemia, temos mais tempo para ler e pensar. Livros de filosofia e autoajuda estão em alta entre os mais vendidos do ano. Títulos como “A Sutil Arte de Ligar o Foda-se” e “O Milagre da Manhã” estão entre os mais vendidos de autoajuda; “Pequeno Manual Antirracista” e “A Felicidade é Inútil” estão entre os mais vendidos de filosofia, só para citar alguns.
+
+Ontem, no Dia Mundial do Filósofo, o Jornal da Cultura fez uma matéria especial sobre isso. Na reportagem, Melissa Alves da Costa, professora de filosofia, diz que a filosofia serve para “ajudar cada um a lidar melhor consigo mesmo”. No final da matéria, o filósofo Luiz Felipe Pondé comenta que não é bem assim, que a filosofia “às vezes pode fazer com que você tenha problemas consigo mesmo”. Os filósofos colocam em dúvida a existência da verdade e confrontam várias teorias com outras. Ou seja, ao invés de ajudar, podem provocar mais conflitos internos. E, por último, Pondé afirma que no dia em que a filosofia se ver como ferramenta de autoajuda, ela morreu.
+
+Eu já li vários livros de autoajuda e de filosofia. E são muito diferentes. Grosso modo, autoajuda te mostra passos e caminhos para ser mais feliz consigo mesmo; filosofia te dá argumentos e reflexões para desconstruir boa parte dos conceitos e teorias do mundo como um todo. Ao ler filosofia, você fica mais questionador e muitas vezes mais confuso. Ao ler autoajuda, você fica mais motivado e esperançoso. Isso, em geral. Há exceções, claro. Assim, se você está acostumado a ler autoajuda, vai ter certa dificuldade em ler filosofia. E vice-versa.
+
+Ler filosofia é difícil. A maioria dos filósofos não tem uma linha de raciocínio fácil de entender ao ler pela primeira vez. Dão várias voltas e nem sempre chegam a conclusões definitivas sobre um tema. Tenho lido muito Nietzsche ultimamente. Às vezes, tenho que ler a mesma frase várias vezes até entender o que ele quis dizer. E essa é a graça ou a desgraça da filosofia. Ela te faz refletir profundamente, mas dificilmente concluir. É mais uma provocação do que uma definição de algo. Mas, assim que você pega o jeito — demora um pouco — fica difícil de largar. Você quer esse estímulo de refletir a fundo, ir e voltar, cada vez mais. E quando isso acontece, fica mais difícil você ler um livro de autoajuda sem questionar tudo.
+
+Enfim, é uma questão de gosto. Os dois temas são muito importantes para os diversos tipos de leitores que gostam de obras que ajudam a pensar fora da caixa, abrir os olhos e ter contato com novas linhas de pensamento. Um é mais prático e motivador (autoajuda) e o outro mais reflexivo e questionador (filosofia). Qual você prefere?

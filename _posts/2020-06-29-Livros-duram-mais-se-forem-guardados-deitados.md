@@ -1,0 +1,14 @@
+---
+layout: post
+title: Livros duram mais se forem guardados deitados
+---
+
+Resolvi escrever este texto porque encontrei várias pessoas na internet escrevendo que guardar os livros em pé (na vertical) é melhor do que guardar deitado (na horizontal). Na verdade, é melhor mesmo; fica bem mais fácil para pegar, mais bonito e organizado. Por isso, as bibliotecas e livrarias guardam em pé os livros que serão sempre manuseados. No entanto, guardando em pé, eles estragam mais rápido. O motivo é simples: o pó que vai acumulando na parte de cima das páginas deixa elas mais escuras com o passar dos anos. Não precisa acreditar em mim. Dá uma olhada nos seus livros mais antigos, que estão guardados em pé, na mesma posição, há vários anos. As páginas de cima, onde pega pó, não estão mais escuras que as de baixo? Percebi isso ao retirar doações e avaliar as páginas dos livros que ficaram guardados por muitos anos em pé.
+
+Também li argumentos de que empilhar livros deitados entorta os de baixo. Nunca vi livro torto por esse motivo. O que entorta ou desgasta a lombada do livro é abrir ele demais. Só isso. Guardar deitado só vai entortar se a lombada não estiver exatamente a 90 graus. Não importa o tamanho ou peso da pilha, basta não deixar nenhum livro torto, desalinhado. Os livros de brochura devem ser empilhados por tamanho. De preferência cada pilha para um tamanho. Se não der, deixe os menores em cima. Ou, depois de vários anos, e dependendo do peso, o livro de baixo vai estar com a capa marcada pelos livros de cima. No máximo com a capa marcada, mas não vai estar torto. Vale a pena deixar os mais pesados embaixo da pilha também, mas isso não faz tanta diferença.
+
+Livros de capa dura, além desse problema do pó em cima das páginas, se são guardados em pé, e estiverem muito esmagados na estante, ao puxar você pode danificar a lombada. O ideal é puxar o livro pelo corpo (empurrando os que estão ao lado) e não por cima. Mas dependendo da qualidade da capa dura, isso é praticamente irrelevante.
+
+Claro que as páginas só ficarão mais escuras em cima, por causa do pó, depois de muitos anos. Então não precisa mudar todos os seus livros agora só por causa disso. Mas fica a dica para quando for dar uma arrumada ou mudar seus livros de lugar. E, se o fizer, aproveite para doar aqueles livros que você não vai mais ler e liberar espaço para novos!
+
+Em resumo, guardar deitado não é melhor. Fica muito difícil pegar o que está embaixo e difícil de organizar, por exemplo. Mas protege mais as páginas do pó. Se você não tirar o pó das páginas com espanador (pano molhado não, hein?!?) ou folhear (o que tira o pó) seus livros todos os dias, guardar deitado pode ajudar a conservá-los melhor ao longo de vários anos. Ah, e se comprou, ou tem, um livro com a borda das páginas com muito pó acumulado, passar uma lixa — bem fina, bem de leve — melhora bastante a situação delas!
