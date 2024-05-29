@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Escrito por Andrews Guerreiro, livreiro do sebomelivro.com. Descentralizado, sem anúncios, sem fotos, sem vídeos, sem comentários, sem curtidas, sem algoritmos, sem estatisticas e sem cookies. Apenas a simples e pura experiência de uma leitura sem distrações, como em um livro.
+  © Andrews Guerreiro
 
 # Build settings
 
@@ -42,12 +42,12 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: auto
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  #date_format: "%b-%d-%Y"
+  #date_format: "%d/%m/%Y"
 
   # Generate social links in footer.
   #social_links:
