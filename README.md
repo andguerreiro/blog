@@ -1,6 +1,6 @@
 Apenas a simples e pura experiência de uma leitura sem distrações, como em um livro.
 
-Descentralizado, sem anúncios, sem fotos, sem vídeos, sem comentários, sem curtidas, sem algoritmos, sem estatisticas e sem cookies. 
+Descentralizado, livre de anúncios, fotos, vídeos, comentários, curtidas, algoritmos, estatísticas e cookies. 
 
 Escrito por Andrews Guerreiro, livreiro do [sebomelivro.com](https://sebomelivro.com).
 
