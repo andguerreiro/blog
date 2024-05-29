@@ -1,12 +1,12 @@
-title: Blog Andrews Guerreiro
+title: Blog
 author:
-  name: 
+  name: © Andrews Guerreiro
   email: 
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  © Andrews Guerreiro
+  Apenas a simples e pura experiência de uma leitura sem distrações, como em um livro.
 
 # Build settings
 
