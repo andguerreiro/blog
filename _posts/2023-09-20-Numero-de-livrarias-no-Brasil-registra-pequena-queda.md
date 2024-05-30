@@ -15,33 +15,5 @@ Entretanto, Teles também enfatizou que há algumas ressalvas, incluindo a poss�
 
 Apesar dessas limitações, o Anuário é visto como uma base importante para compreender a realidade do mercado livreiro brasileiro. A intenção da ANL é publicar o estudo a cada dois anos, e Marcus Teles anunciou planos para divulgar em breve um levantamento mais detalhado, mostrando as cidades sem livrarias e a média de livrarias por habitante em todo o país.
 
-Os números de livrarias por estado são os seguintes: 
+Os números de livrarias por estado são os seguintes: São Paulo: 1.167; Minas Gerais: 353; Rio Grande do Sul: 293; Rio de Janeiro: 252; Paraná: 161; Santa Catarina: 107; Ceará: 71; Bahia: 60; Distrito Federal: 54; Espírito Santo: 42; Goiás: 44; Mato Grosso: 34; Mato Grosso do Sul: 33; Paraíba: 36; Piauí: 36; Pará: 27; Rio Grande do Norte: 25; Amazonas: 22; Maranhão: 21; Sergipe: 19; Rondônia: 18; Alagoas: 16; Roraima: 10; Tocantins: 10; Acre: 7; Amapá: 4.
 
-| Estado               | Quantidade de Livrarias |
-|----------------------|-------------------------|
-| São Paulo            | 1.167                   |
-| Minas Gerais         | 353                     |
-| Rio Grande do Sul    | 293                     |
-| Rio de Janeiro       | 252                     |
-| Paraná               | 161                     |
-| Santa Catarina       | 107                     |
-| Ceará                | 71                      |
-| Bahia                | 60                      |
-| Distrito Federal     | 54                      |
-| Espírito Santo       | 42                      |
-| Goiás                | 44                      |
-| Mato Grosso          | 34                      |
-| Mato Grosso do Sul   | 33                      |
-| Paraíba              | 36                      |
-| Piauí                | 36                      |
-| Pará                 | 27                      |
-| Rio Grande do Norte  | 25                      |
-| Amazonas             | 22                      |
-| Maranhão             | 21                      |
-| Sergipe              | 19                      |
-| Rondônia             | 18                      |
-| Alagoas              | 16                      |
-| Roraima              | 10                      |
-| Tocantins            | 10                      |
-| Acre                 | 7                       |
-| Amapá                | 4                       |
