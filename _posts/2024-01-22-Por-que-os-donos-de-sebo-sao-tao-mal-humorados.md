@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Por que os donos de sebo são tão mal-humorados
+title: Por que os donos de sebo são tão mal-humorados?
 ---
 
 Qualquer pessoa que tenha ido a um sebo e conversado diretamente com o dono sobre preço, um livro específico ou feito alguma pergunta deve ter percebido uma certa antipatia ou mau humor do dono. Pelo menos da grande maioria. Mas o que ninguém entende é o motivo disso, já que amam livros e imaginam que essas pessoas, por trabalharem o dia inteiro com livros, deveriam ser as mais felizes do mundo. Mas não é bem assim. Eis aqui alguns motivos:
