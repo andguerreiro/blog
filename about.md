@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-permalink: /about/
+permalink: /sobre/
 ---
 
 Escrito por **[Andrews Guerreiro](https://github.com/andguerreiro)**, livreiro do **[sebomelivro.com](https://sebomelivro.com)**
