@@ -4,7 +4,7 @@ title: Sobre
 permalink: /sobre/
 ---
 
-Opiniões de **[Andrews Guerreiro](https://github.com/andguerreiro)**, livreiro do **[sebomelivro.com](https://sebomelivro.com)**.
+Opiniões de **[Andrews Guerreiro](https://github.com/andguerreiro)**, livreiro do **[Sebomelivro](https://github.com/andguerreiro/sebomelivro)**.
 
 Leitura sem distrações, igual em um livro. Descentralizado, livre de anúncios, fotos, vídeos, comentários, curtidas, algoritmos, estatísticas e cookies. 
 
