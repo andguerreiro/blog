@@ -2,7 +2,7 @@ Leitura sem distrações, como em um livro.
 
 Descentralizado, livre de anúncios, fotos, vídeos, comentários, curtidas, algoritmos, estatísticas e cookies. 
 
-Escrito por [Andrews Guerreiro](https://github.com/andguerreiro), livreiro do [sebomelivro.com](https://sebomelivro.com).
+Escrito por [Andrews Guerreiro](https://github.com/andguerreiro), livreiro do [Sebomelivro](https://github.com/andguerreiro/sebomelivro).
 
 Logo criado por Maxim Basinski e baixado de [Flaticon](https://www.flaticon.com/free-icons/typewriter)
 
