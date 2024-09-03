@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Series de fantasia que eu recomendo
+title: Livros de fantasia que eu recomendo
 ---
 
 Quase sempre que me pedem alguma recomendação de um livro de ficção, eu começo pelos clássicos. Aqueles que já fazem sucesso entre a crítica especializada e os leitores há vários anos e que continuarão fazendo sucesso no futuro. Afinal, são atemporais. O estilo literário fantasia, cheio de magia, heróis, vilões, superações, desenvolvimento dos personagens e do universo onde eles se encontram, é um dos meus preferidos. Aqui vou recomendar séries de livros que já li ou reli e que não são apenas um único volume. Afinal, para criar e desenvolver personagens e universos complexos e envolventes, um único livro nunca é suficiente. Segue a lista, na ordem que eu li:
