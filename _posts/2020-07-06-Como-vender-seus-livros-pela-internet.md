@@ -5,7 +5,7 @@ title: Como vender seus livros pela internet
 
 Você tem livros em casa e gostaria de vendê-los pela internet? A melhor forma de fazer isso é usar uma plataforma de marketplace já conhecida e bem utilizada pelos leitores. Criar a própria loja virtual pode ser caro, difícil para quem não tem experiência e ficar invisível ao público em geral. Vender por redes sociais gera muito menos vendas em comparação aos marketplaces e dá muito trabalho para administrar os pedidos só por mensagem. Se você não tem CNPJ, as duas melhores opções hoje para isso são o Estante Virtual e a Amazon. Claro, que mesmo nas duas melhores opções, algumas tarifas nem sempre são justas e você ficará refém de suas políticas de preços (para ser competitivo), anúncios, entrega, reembolso, etc. Mas mesmo assim você vai vender bem mais e gastar menos do que fazer tudo por conta própria. Confira abaixo desvantagens e vantagens que podem te ajudar a escolher um desses dois marketplaces.
 
-**Desvantagens da Estante Virtual:**
+Desvantagens da Estante Virtual:
 
 É necessário um acervo mínimo (cerca de 1000 livros) para ser aprovado como vendedor.
 
@@ -25,7 +25,7 @@ O cliente só pode avaliar o vendedor depois de 10 dias da compra.
 
 Inclui tarifas no custo do frete para o comprador, o que é bom pro vendedor mas encarece o frete ainda mais.
 
-**Vantagens da Estante Virtual:**
+Vantagens da Estante Virtual:
 
 Cálculo automático do frete pelos Correios para Impresso Normal, PAC e Sedex.
 
@@ -33,7 +33,7 @@ Vendedor pode receber o pagamento pelos pedidos na sua conta bancária cerca de 
 
 É fácil cadastrar livros sem ISBN, mas somente se tiverem sido publicados antes de 1980.
 
-**Desvantagens da Amazon:**
+Desvantagens da Amazon:
 
 Não calcula automaticamente o frete dos Correios para Impresso Normal (bem mais barato por ser exclusivo para livros), só para PAC e Sedex.
 
@@ -45,7 +45,7 @@ Apesar de possível, é mais difícil cadastrar um livro sem ISBN (livros antigo
 
 Seu livro usado não terá nenhum destaque se existir o mesmo livro novo, a Amazon foca nos livros novos e vendidos por ela; seu livro será sempre a última opção e, às vezes, até difícil de encontrar na página.
 
-**Vantagens da Amazon:**
+Vantagens da Amazon:
 
 Não é necessário acervo mínimo para ser aprovado como vendedor; Mensalidade de 19 reais (grátis nos 3 primeiros meses).
 
@@ -59,7 +59,7 @@ Ao subir o acervo por planilha, dá pra incluir a imagem da capa.
 
 O peso é cadastrado por ISBN, impedindo que vendedores tentem superfaturar com o frete.
 
-**Vantagens de ambos:**
+Vantagens de ambos:
 
 Anúncios e publicidade no Google.
 
