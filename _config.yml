@@ -72,3 +72,10 @@ minima:
 url: "https://andguerreiro.github.io" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      og_locale: "pt_BR"
