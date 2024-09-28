@@ -7,11 +7,9 @@ De vez em quando vejo leitores e livreiros classificando alguns livros como “r
 
 Na verdade, para definir um livro como raro é necessário um comitê de bibliotecários. E esse comitê vai avaliar o seguinte:
 
-Provável e comprovável inexistência de outra obra igual;
-
-Poucos exemplares disponíveis em qualquer lugar do mundo;
-
-De autoria de personalidades ilustres e relevantes ou consideradas pai/mãe de campos de interesse público.
+- Provável e comprovável inexistência de outra obra igual;
+- Poucos exemplares disponíveis em qualquer lugar do mundo;
+- De autoria de personalidades ilustres e relevantes ou consideradas pai/mãe de campos de interesse público.
 
 Esses tipos de livros praticamente só existem em bibliotecas. Raramente você vai encontrar um livro raro em um sebo. E nunca em uma livraria.
 
@@ -19,11 +17,9 @@ Claro que existem livros que podem ser “raros” para você. Deixados por pare
 
 A biblioteca do Museu Nacional no Rio de Janeiro, que felizmente tinha separado seus livros raros do local que pegou fogo em 2018, lançou recentemente um catálogo com seus livros raros. São 1408 obras. Confira alguns exemplos:
 
-Torá (a Bíblia hebraica), de 1.300, que pertenceu ao Imperador Pedro II e tem registro do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan);
-
-Historia Naturale, escrito por Plínio (O Velho), de 1481. A obra é chamada de incunábulo, que são as publicações dos primeiros tempos da imprensa no país, e pertenceu à Imperatriz Leopoldina;
-
-Arte de grammatica da lingoa mais usada na Costa do Brasil, de José Anchieta. O exemplar original tem duas folhas preliminares e 59 folhas de texto. Apenas oito exemplares são conhecidos no mundo, sendo que dois estão no Brasil e os outros seis em instituições de Portugal, Inglaterra, Espanha e Itália.
+- Torá (a Bíblia hebraica), de 1.300, que pertenceu ao Imperador Pedro II e tem registro do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan);
+- Historia Naturale, escrito por Plínio (O Velho), de 1481. A obra é chamada de incunábulo, que são as publicações dos primeiros tempos da imprensa no país, e pertenceu à Imperatriz Leopoldina;
+- Arte de grammatica da lingoa mais usada na Costa do Brasil, de José Anchieta. O exemplar original tem duas folhas preliminares e 59 folhas de texto. Apenas oito exemplares são conhecidos no mundo, sendo que dois estão no Brasil e os outros seis em instituições de Portugal, Inglaterra, Espanha e Itália.
 
 Alguns livreiros de sebo classificam os livros que estão vendendo como raros. Basta filtrar “livros raros” na Estante Virtual para ver que não faz sentido nenhum e pode até enganar um comprador desinformado.
 
