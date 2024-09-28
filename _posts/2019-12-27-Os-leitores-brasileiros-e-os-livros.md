@@ -9,25 +9,16 @@ Segundo a pesquisa “Retratos da Leitura no Brasil” de 2016, a última realiz
 
 Os presentes mais procurados nesse final de ano de 2019, conforme pesquisa da Associação Brasileira de Lojistas de Shoppings (Alshop), foram:
 
-Moda masculina
-
-Brinquedos
-
-Perfumes e Cosméticos
-
-Calçados
-
-Acessórios de moda
-
-Celulares e Smartphones
-
-Livros
-
-Jóias
-
-Bijuterias
-
-Eletrônicos e eletrodomésticos
+(1) Moda masculina
+(2) Brinquedos
+(3) Perfumes e Cosméticos
+(4) Calçados
+(5) Acessórios de moda
+(6) Celulares e Smartphones
+(7) Livros
+(8) Jóias
+(9)Bijuterias
+(10)Eletrônicos e eletrodomésticos
 
 Os livros só aparecem em 7º lugar mesmo sendo um produto com preço médio abaixo dos presentes mais procurados. Nada animador.
 
