@@ -21,4 +21,4 @@ Algumas pessoas me dizem que não aguentam mais assistir séries e gostariam de 
 
 O fato é que as coisas mudaram.
 
-E as pessoas também. E na minha opinião é um caminho sem volta. Se você leu esse texto até aqui, já é algo incrível. A maioria parou no título ou no subtítulo. Por isso, só para você, vou dar 20% de desconto no preço de qualquer livro disponível no meu sebo. Entre em contato por aqui: sebomelivro.com para mais detalhes. Vamos ver quantas mensagens eu vou receber.
+E as pessoas também. E na minha opinião é um caminho sem volta. Se você leu esse texto até aqui, já é algo incrível. A maioria parou no título ou no subtítulo.
