@@ -4,7 +4,7 @@ title: Sobre
 permalink: /sobre/
 ---
 
-Escrito por **[Andrews Guerreiro](https://github.com/andguerreiro)**, livreiro do **[Sebomelivro](https://github.com/andguerreiro/sebomelivro)**.
+Escrito por **[Andrews Guerreiro](https://github.com/andguerreiro)**, livreiro do **[Sebo Menos Telas](https://github.com/andguerreiro/sebomenostelas)**.
 
 Leitura sem distrações, igual em um livro. Descentralizado, livre de anúncios, fotos, vídeos, comentários, curtidas, algoritmos, estatísticas e cookies. 
 
