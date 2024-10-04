@@ -7,7 +7,7 @@ Desde o final do ano passado e o início deste, os entusiastas de tecnologia nã
 
 Pouco tempo depois, algumas pessoas já estavam usando a ferramenta para gerar livros e vendê-los. E dúvidas começaram a surgir sobre direitos autorais e a forma como textos literários serão gerados de agora em diante.
 
-Hoje eu resolvi fazer uma experiência no meu site sebomelivro.com. Utilizei o ChatGPT para transformar todo o texto informativo que fazia parte do conteúdo do site em texto literário. O resultado foi impressionante. Poucas frases viraram vários parágrafos em segundos. Acesse e confira.
+Hoje eu resolvi fazer uma experiência no meu site. Utilizei o ChatGPT para transformar todo o texto informativo que fazia parte do conteúdo em texto literário. O resultado foi impressionante. Poucas frases viraram vários parágrafos em segundos. Acesse e confira.
 
 Além de gerar texto, o ChatGPT também modificou o código do site e ainda fez mudanças no design. Algo que eu levaria horas para fazer, foi feito pela ferramenta em minutos. Claro que nem tudo é perfeito. Algumas correções precisam ser feitas, mas apenas uma vez. Depois, o ChatGPT aprende e não erra mais.
 
