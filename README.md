@@ -4,6 +4,6 @@ Leitura sem distrações, igual em um livro. Descentralizado, livre de anúncios
 
 Feito com **[Jekyll](https://jekyllrb.com/)**.
 
-Logo criado por Maxim Basinski e baixado de **[Flaticon](https://www.flaticon.com/free-icons/typewriter)**.
+Logo criado por Maxim Basinski e baixado de **[Flaticon](https://www.flaticon.com/free-icon/typewriter_284573)**.
 
 Hospedagem e código aberto no **[GitHub](https://github.com/andguerreiro/blog)**.
