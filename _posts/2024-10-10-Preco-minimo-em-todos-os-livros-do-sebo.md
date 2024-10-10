@@ -15,7 +15,7 @@ E por que decidi mudar? Seguem alguns motivos:
 
 1. A maioria dos meus livros já estava com o preço mínimo, então resolvi deixar todos com o mesmo preço.
 
-2. Já faz tempo que não tenho quase lucro com meu sebo. Quando comecei, ganhava o suficiente para pagar todas as minhas contas e ainda sobrava um pouco. Hoje, não paga nem as contas básicas. Sendo assim, que pelo menos as pessoas que encontrarem um livro com preço bem abaixo do preço de mercado fiquem felizes. Vai virar um negócio filantrópico.
+2. Já faz tempo que quase não tenho lucro com meu sebo. Quando comecei, ganhava o suficiente para pagar todas as minhas contas e ainda sobrava um pouco. Hoje, não paga nem as contas básicas. Sendo assim, que pelo menos as pessoas que encontrarem um livro com preço bem abaixo do preço de mercado fiquem felizes. Vai virar um negócio filantrópico.
 
 3. Vejo muita gente reclamando que os livros em sebo estão mais caros que o mesmo livro novo (lacrado) na Amazon. Pelo menos no meu sebo, isso não vai acontecer. E se acontecer será por motivo de queima de estoque da Amazon.
 
