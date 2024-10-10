@@ -7,7 +7,7 @@ Hoje, meu sebo completa 7 anos e decidi mudar minhas regras de precificação pa
 
 Livros de ficção: 6 reais, com venda apenas pela Estante Virtual. São, em geral, livros mais leves, e o frete fica mais em conta na Estante Virtual via "impresso normal com registro módico" dos Correios (categoria mais barata e exclusiva para livros, onde a distância não importa, apenas o peso).
 
-Todos os outros livros: 8 reais, com venda apenas pelo Mercado Livre. Livros mais pesados, que não valem mais a pena enviar via contrato do Mercado Livre com os Correios (Sedex e PAC, peso e distância importam).
+Todos os outros livros: 8 reais, com venda apenas pelo Mercado Livre. Livros mais pesados, que valem mais a pena enviar via contrato do Mercado Livre com os Correios (Sedex e PAC).
 
 E qual o motivo do 6 reais e 8 reais? São o preço mínimo permitido pelas respectivas plataformas de venda (marketplaces).
 
