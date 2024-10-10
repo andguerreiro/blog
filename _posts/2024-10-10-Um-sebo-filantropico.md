@@ -9,7 +9,7 @@ Hoje, meu sebo completa 7 anos e decidi mudar a forma como ele funcionará. A pa
 
 - Todos os outros livros e quadrinhos: 8 reais, disponíveis apenas no Mercado Livre. Esses são livros mais pesados, que são mais vantajosos para envio via contrato do Mercado Livre com os Correios (Sedex e PAC).
 
-Esses são os preços mínimos de cada plataforma de venda (marketplace).
+Esses são os preços mínimos da respectiva plataforma de venda (marketplace).
 
 Por que decidi mudar? Aqui estão alguns motivos:
 
